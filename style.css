@@ -1,0 +1,36 @@
+div {
+    width: 30%;
+    margin: 5px auto;
+    box-sizing: border-box;
+}
+
+.timer {
+    height: 100px;
+    margin-top: 50px;
+    padding-top: 15px;
+    border: 1px solid #a10bf8;
+    font-size: 28px;
+    font-weight: bold;
+    color: #a10bf8;
+    text-align: center;
+}
+
+.btn {
+    width: 49.2%;
+    height: 50px;
+    border-radius: 2px;
+    text-align: center;
+    border: 1px solid #a10bf8;
+    background-color: #e7cbf7;
+    color: #a10bf8;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn--active {
+    border: 1px solid transparent;
+    background-color: #a10bf8;
+    color:#e7cbf7;
+}
